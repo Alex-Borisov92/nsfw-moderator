@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+nudenet==3.4.2
+opencv-python-headless==4.10.0.82
+numpy<2           # ключевая строка
+python-multipart==0.0.6
