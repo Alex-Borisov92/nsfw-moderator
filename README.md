@@ -58,16 +58,18 @@ curl -X POST -F "file=@nude_modigliani.jpg" http://localhost:8000/moderate
 ## Состав проекта
 
 
+```text
 nsfw-moderator/
- ├─ main.py
- ├─ requirements.txt
- ├─ Dockerfile
- ├─ docker-compose.yml
- ├─ README.md
- ├─ cat.jpg
- ├─ landscape.jpg
- ├─ bikini.jpg
- └─ nude_modigliani.jpg
+├── main.py
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
+├── cat.jpg
+├── landscape.jpg
+├── bikini.jpg
+└── nude_modigliani.jpg
+```
 
 
 ## Заметки
